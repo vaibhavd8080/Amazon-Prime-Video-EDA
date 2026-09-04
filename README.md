@@ -80,6 +80,3 @@ Amazon-Prime-Video-EDA/
 │   └── Amazon Prime Video - Exploratory Data Analysis.ipynb
 │
 └── README.md
-└── data/
-    ├── titles.csv
-    └── cr
