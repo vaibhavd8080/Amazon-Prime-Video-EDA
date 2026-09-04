@@ -72,9 +72,14 @@ Contains information about people associated with the titles, including actors a
 ```text
 Amazon-Prime-Video-EDA/
 │
-├── Amazon Prime Video - Exploratory Data Analysis.ipynb
-├── README.md
+├── data/
+│   ├── titles.csv
+│   └── credits.csv
 │
+├── notebook/
+│   └── Amazon Prime Video - Exploratory Data Analysis.ipynb
+│
+└── README.md
 └── data/
     ├── titles.csv
-    └── credits.csv
+    └── cr
